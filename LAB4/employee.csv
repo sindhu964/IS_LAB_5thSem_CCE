@@ -1,0 +1,13 @@
+name,employee_id,department,date_of_tenure_end
+Vincent van Gogh,E001,Finance,2023-12-31
+Pablo Picasso,E002,HR,2026-06-30
+Claude Monet,E003,Supply Chain,2022-11-30
+Rembrandt,E006,Finance,2024-09-30
+Frida Kahlo,E007,HR,2026-08-31
+Leonardo da Vinci,E008,Supply Chain,2025-12-31
+Salvador Dali,E011,Finance,2021-01-31
+Michelangelo,E012,HR,2024-10-15
+Piet Mondrian,E013,Supply Chain,2025-04-30
+Keith Harring,E016,Finance,2022-03-31
+Jackson Pollock,E017,HR,2026-09-30
+Andy Warhol,E018,Supply Chain,2025-07-31Sindhu,E019,Finance,2070-10-16
